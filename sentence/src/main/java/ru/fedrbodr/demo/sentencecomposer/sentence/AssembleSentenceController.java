@@ -20,11 +20,11 @@ public class AssembleSentenceController {
 	public @ResponseBody
 	String getSentence() {
 		return
-				getWord("LAB-4-SUBJECT") + " "
-						+ getWord("LAB-4-VERB") + " "
-						+ getWord("LAB-4-ARTICLE") + " "
-						+ getWord("LAB-4-ADJECTIVE") + " "
-						+ getWord("LAB-4-NOUN") + "."
+				getWord("SUBJECT") + " "
+						+ getWord("VERB") + " "
+						+ getWord("ARTICLE") + " "
+						+ getWord("ADJECTIVE") + " "
+						+ getWord("NOUN") + "."
 				;
 	}
 
