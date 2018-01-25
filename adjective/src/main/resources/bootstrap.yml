@@ -1,3 +1,5 @@
 spring:
   application.name: adjective
   cloud.config.uri: http://localhost:8001
+  profiles:
+      active: adjective

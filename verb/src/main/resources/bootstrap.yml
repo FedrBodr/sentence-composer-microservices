@@ -1,3 +1,5 @@
 spring:
   application.name: verb
   cloud.config.uri: http://localhost:8001
+  profiles:
+      active: verb
