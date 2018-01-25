@@ -1,3 +1,3 @@
 ---
-words: a,the
+words: ran,knew,had,saw,bought
 server.port: ${PORT:${SERVER_PORT:0}}

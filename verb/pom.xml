@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>ru.fedrbodr.demo.sentencecomposer</groupId>
-	<artifactId>article</artifactId>
+	<artifactId>verb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>article</name>
-	<description>Demo project for testing eureka-clients and microservices. Return, random article</description>
+	<name>verb</name>
+	<description>Demo project for testing eureka-server and microservices. Return, random verb</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
